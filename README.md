@@ -1,14 +1,3 @@
-# js-compe
+# CS game functional programming
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Solution to the 2018 CS games functional programming challenges in clojure
